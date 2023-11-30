@@ -1,4 +1,12 @@
-### Hi there 👋
+<p>
+  <h1 align=center>
+    두려워하지 말자
+  </h1>
+  <ul><div align=center>내 코드가 내 의지와 관계없이 사라지는 것</div>
+ <div align=center>부끄러운 과거의 코드가 공개되는 것</div>
+ <div align=center>나의 부족한 지식이 드러나는 것</div></ul>
+ 
+</p>
 
 <!--
 **KubrickCode/KubrickCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
