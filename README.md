@@ -3,18 +3,7 @@
     About Me
   </h2>
   <div align=center>
-    <p>
-      <h4>두려워하지 않는 것</h4>
-      <div>내 코드가 내 의지와 관계없이 사라지는 것</div>
-      <div>부끄러운 과거의 코드가 공개되는 것</div>
-      <div>부족한 지식이 드러나는 것</div>
-    </p>
-    <p>
-      <h4>믿는 것</h4>
-      <div>내가 믿었던 방법론은 정답이 아닐 수 있으며, 코드에 정답은 없다</div>
-      <div>모든 것은 상황에 따라 유연하게 대처해야 할 필요가 있다</div>
-      <div>개발에 들어가는 모든 자원은 돈이다</div>
-    </p>
+    감정 소모하지 않는 기계 같은 개발
   </div>
 </p>
 
@@ -49,5 +38,17 @@
   <h2 align=center>Contact</h2>
   <div align=center>
     <a href="kubrickcode@gmail.com" target="_blank">kubrickcode@gmail.com</a>
+  </div>
+</p>
+
+<p>
+  <h2 align=center>
+    Pursuit
+  </h2>
+  <div align=center>
+      <div>내 코드가 내 의지와 관계없이 사라지거나, 부끄러운 과거의 코드가 공개되거나, 부족한 지식이 드러나는 것을 두려워하지 말아요</div>
+      <div>코드에 결국 정답은 없고, 특정 방법론을 종교처럼 맹신하지 말아요</div>
+      <div>모든 것은 상황에 따라 유연하게 대처해야 할 필요가 있어요</div>
+      <div>개발에 들어가는 모든 자원을 비용 중심적으로 생각해 봐요</div>
   </div>
 </p>
