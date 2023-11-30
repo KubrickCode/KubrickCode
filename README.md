@@ -19,9 +19,12 @@
 </p>
 
 <p>
-  <h3 align=center>
+  <h2 align=center>
+    Organization
+  </h2>
+  <div align=center>
     🔭 I’m currently working on <a href="https://github.com/notaggroup" target="_blank">Notag Korea</a>
-  </h3>
+  </div>
 </p>
 
 
@@ -39,5 +42,12 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHubActions-2088FF?style=flat-square&logo=GitHubActions&logoColor=white"/>
     <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/>
+  </div>
+</p>
+
+<p>
+  <h2 align=center>Contact</h2>
+  <div align=center>
+    <a href="kubrickcode@gmail.com" target="_blank">kubrickcode@gmail.com</a>
   </div>
 </p>
