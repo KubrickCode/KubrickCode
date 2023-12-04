@@ -3,7 +3,7 @@
     About Me
   </h2>
   <div align=center>
-    감정 소모하지 않는 기계 같은 개발
+    감정 소모하지 않는 기계 같은 개발하기
   </div>
 </p>
 
