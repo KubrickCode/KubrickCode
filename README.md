@@ -40,15 +40,3 @@
     <a href="kubrickcode@gmail.com" target="_blank">kubrickcode@gmail.com</a>
   </div>
 </p>
-
-<p>
-  <h2 align=center>
-    Pursuit
-  </h2>
-  <div align=center>
-      <div>내 코드가 내 의지와 관계없이 사라지거나, 부끄러운 과거의 코드가 공개되거나, 부족한 지식이 드러나는 것을 두려워하기 금지</div>
-      <div>코드에 결국 정답은 없고, 특정 방법론을 종교처럼 맹신 금지</div>
-      <div>모든 것은 상황에 따라 유연하게 대처해야 할 필요 있음</div>
-      <div>개발에 들어가는 모든 자원을 비용 중심적으로 생각하기</div>
-  </div>
-</p>
