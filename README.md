@@ -3,7 +3,7 @@
     About Me
   </h2>
   <div align=center>
-    Impassible & Mechanical Developer
+    Emotionless & Machine-like Developer
   </div>
 </p>
 
