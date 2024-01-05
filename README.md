@@ -3,7 +3,7 @@
     About Me
   </h2>
   <div align=center>
-    Impassible & Mechanical Development
+    Impassible & Mechanical Developer
   </div>
 </p>
 
