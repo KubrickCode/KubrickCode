@@ -24,6 +24,7 @@
   <div align=center>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+    <img src="https://img.shields.io/badge/REST API-FF5733?style=flat-square&logo=fastapi&logoColor=white"/>
     <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/>
   </div>
 </p>
