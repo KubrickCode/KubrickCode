@@ -3,7 +3,7 @@
     About Me
   </h2>
   <div align=center>
-    Performance-oriented developer
+    Problem solver leveraging every possible approach
   </div>
 </p>
 
